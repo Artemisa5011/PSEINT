@@ -1,0 +1,10 @@
+Algoritmo NUMEROS_POSITIVOS
+	Definir CONTADOR, SUMA Como Real
+	CONTADOR=1
+	SUMA=0
+	Mientras CONTADOR<=5 Hacer
+		SUMA=SUMA+CONTADOR
+		CONTADOR=CONTADOR+1
+	FinMientras
+	Imprimir "LA SUMA DE LOS NUMEROS ES: " SUMA
+FinAlgoritmo
